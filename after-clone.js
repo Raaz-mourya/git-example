@@ -1,0 +1,1 @@
+console.log("after clone file inside detail");
